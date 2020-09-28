@@ -1,0 +1,21 @@
+9/28/20 - App Development
+
+Topic(s) - Git, Version Control, Basics of Kotlin
+
+Objectives - {
+    - Git and Version Control
+        - How Assignmnents will work?
+        - What happens if you miss an assignment?
+    - Programming
+        - Variables / Data Types
+        - If Statements
+        - When Statements
+        - For Loops
+        - Strings
+        - Lists
+        - Mutability
+        - Hashmaps
+        - For loops with Hashmaps and Lists
+    - Break
+    - Questions
+}
