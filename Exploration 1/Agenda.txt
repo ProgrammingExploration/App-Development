@@ -7,16 +7,14 @@ Objectives - {
         - How Assignmnents will work?
         - What happens if you miss an assignment?
     - Installations (Android Studio, Git, Github Account)
+    - Creating Android Studio Project
     - Programming
         - Variables / Data Types
         - If Statements
         - When Statements
         - For Loops
         - Strings
-        - Lists
         - Mutability
-        - Hashmaps
-        - For loops with Hashmaps and Lists
     - Break
     - Questions
 }
