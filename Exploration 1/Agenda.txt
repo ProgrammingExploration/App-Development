@@ -5,7 +5,7 @@ Topic(s) - Git, Version Control, Basics of Kotlin
 Objectives - {
     - Git and Version Control
         - How Assignmnents will work?
-        - How to view projects and assignments we do
+        - How to view projects and assignments we do?
     - Installations (Android Studio, Git, Github Account)
     - Setting Up Folders for App Development
     - Creating Android Studio Project
