@@ -6,6 +6,7 @@ Objectives - {
     - Git and Version Control
         - How Assignmnents will work?
         - What happens if you miss an assignment?
+    - Installations (Android Studio, Git, Github Account)
     - Programming
         - Variables / Data Types
         - If Statements
