@@ -1,0 +1,13 @@
+1) Create a variable called wallet which should be a integer and set that to 100;
+2) You walk into a store and buy something for 20 dollars
+    - Print out that you bought something for 20 dollars
+    - Subtract 20 dollars from the wallet variable
+3) You go to an ATM and you get 50 dollars
+    - Print out that you got 50 dollars
+    - Add 50 dollars to your wallet
+4) Final
+    - Print Out You Wallet Value
+    - Do you have more than 80 dollars in your wallet
+        - True or False
+        - If Statements (If Statements in Kotlin)
+        - Booleans
