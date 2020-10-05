@@ -1,6 +1,6 @@
 9/28/20 - App Development
 
-Topic(s) - Git, Version Control, Basics of Kotlin
+Topic(s) - Git, Version Control, Installations, and Setup
 
 Objectives - {
     - Git and Version Control
@@ -17,6 +17,14 @@ Objectives - {
         - Strings
         - Mutability
     - Go Through Assignment and how to submit
+    - Break
+    - Questions
+}
+
+What we did - {
+    - Git Version Control
+    - Installations
+    - Setting up Folders for App Development
     - Break
     - Questions
 }

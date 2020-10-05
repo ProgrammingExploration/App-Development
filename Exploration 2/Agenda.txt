@@ -1,0 +1,17 @@
+10/5/20 - App Development
+
+Topic(s) - Basics of Kotlin
+
+Objectives - {
+    - Creating Android Project
+    - Variables (Basics)
+    - Difference between var and val
+    - Setting Types
+    - Data Types
+    - Math Operations
+    - Strings
+        - Template Strings
+        - If statements
+        - For Loops
+        - Arrays
+}
