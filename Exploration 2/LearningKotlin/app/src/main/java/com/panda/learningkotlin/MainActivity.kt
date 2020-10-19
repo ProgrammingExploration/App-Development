@@ -15,6 +15,7 @@ fun main() {
 
     // Declaring Type
     // Integers = Numbers with no decimal points
+    // (Variable Name): (Data Type) = (Value)
     val sampleInt: Int = 15;
     // Floats = Numbers with decimals
     val pi: Float = 3.14159265f;
