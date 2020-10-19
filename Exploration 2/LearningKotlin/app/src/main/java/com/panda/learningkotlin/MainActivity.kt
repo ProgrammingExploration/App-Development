@@ -47,4 +47,98 @@ fun main() {
     b /= 5;
     var isDivisible = b % 4;
     println(isDivisible); // Print out 0
+
+    val heights: List<Int> = listOf<Int>(6, 5, 4, 3, 3, 4);
+    println(heights.sorted());
+
+    var ages: List<Int> = mutableListOf<Int>(10, 13, 13, 14, 15);
+    println(ages.sorted());
+
+    var randoms = heights + ages;
+    println(randoms.sorted());
+
+    randoms -= listOf(0);
+    println(randoms);
+
+    val map: Map<String, Int> = mapOf("Billy" to 14, "Joe" to 12, "Jim" to 14, "Bill" to 12, "Om" to 13);
+    for((name, age) in map) {
+        println("$name is $age years old");
+        if(age > 13) {
+            println("$name is older than 13");
+        }
+    }
+
+    printHello();
+    printAny("This is om");
+    add(1, 3);
+
+    println(multiply(3, 5));
+    println(makeSentence("Om"));
+
+    val om: Person = Person("Om", 13);
+    println(om.name);
+    println(om.age);
+    om.grow();
+    om.newName("Panda");
+    println(om.age);
+    println(om.name);
+    println(makeSentence(om.name));
+}
+
+// Classes
+class Person(var name: String, var age: Int) {
+    // Name, age
+//    var name: String = "";
+//    var age: Int = 0;
+//
+//    constructor(name: String, age: Int): this() {
+//        this.age = age;
+//        this.name = name;
+//    }
+
+    fun grow() {
+        this.age += 1;
+    }
+
+    fun newName(name: String) {
+        this.name = name;
+    }
+}
+
+open class Shape() {
+    open var sides: Int = 4;
+
+    open fun draw() {
+        println("DRAWING...");
+    }
+}
+
+class Square() : Shape() {
+    override var sides: Int = super.sides;
+
+    fun draw() {
+        super.draw();
+    }
+}
+
+// Functions
+fun printHello() {
+    println("Hello World");
+}
+
+fun printAny(sentence: String) {
+    println(sentence);
+}
+
+fun add(x: Int, y: Int) {
+    println(x + y);
+}
+
+fun multiply(x: Int, y: Int): Int {
+    return x * y;
+}
+
+fun makeSentence(name: String): String {
+    var sentence: String = "My name is $name"
+    return sentence;
 }
