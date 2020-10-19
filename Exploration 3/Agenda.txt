@@ -3,7 +3,7 @@
 Topic(s) - Basics of Kotlin
 
 Objectives - {
-    - Last Week's Assignment: 
+    - Last Week's Assignment 
     - If Statements
     - String Functions
         - Contains
