@@ -116,7 +116,7 @@ open class Shape() {
 class Square() : Shape() {
     override var sides: Int = super.sides;
 
-    fun draw() {
+    override fun draw() {
         super.draw();
     }
 }

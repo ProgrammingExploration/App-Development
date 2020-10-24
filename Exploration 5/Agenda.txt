@@ -1,0 +1,27 @@
+10/24/20 - App Development
+
+Topic - Hello World App, Tip Calculator App
+
+Objectives - {
+    - Setup AVD
+    - Hello World App
+        - Set Up
+            - Removing Widgets
+            - Removing Kotlin
+        - Hello World Tag
+            - Constraints
+            - ID
+            - Attributes
+    - Tip Calculator
+        - Button
+        - Text
+        - Input Fields
+        - Base Layout
+            - Constraint Layout
+        - Programming
+            - Finding ID
+            - OnClick
+                - Calculation
+                - Returning and Changing Text
+        - Final Changes
+}
