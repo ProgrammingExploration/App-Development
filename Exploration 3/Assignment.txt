@@ -1,0 +1,9 @@
+1) Make an immutable list with a list of whatever you want
+    - Print That array
+2) Create a mutable list with the same types as the immutable
+    - Add Both Arrays Together
+    - Subtract One Value from the combined array
+    - Print you result
+3) Create a hashmap with any two properties of any object
+    - For Loop through the properties and hashmap
+    - Check and Use if statement in the for loop

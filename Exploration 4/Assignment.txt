@@ -1,0 +1,6 @@
+1) Create A Class (This class is going to be an open class)
+2) Create a less vague class (Inherit from the open class)
+3) Create atleast 2 functions inside of each class
+    - For the second class (closed) make sure that you use "super" in some fashion
+4) Create 3 functions outside of these classes and try to involve them with the 2 classes
+5) Create objects, and instances of these classes and functions

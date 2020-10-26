@@ -1,0 +1,15 @@
+10/19/20 - App Development
+
+Topic(s) - Object Oriented Programming (Classes)
+
+Objectives - {
+    - Last Week's Assignment
+    - Introduction to OOP
+    - Classes
+        - Basic Properties
+        - Methods (Functions)
+        - Instances (Objects)
+    - Inheritence
+    - Extension
+    - Assignment
+}

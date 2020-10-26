@@ -1,0 +1,18 @@
+10/12/20 - App Development
+
+Topic(s) - Basics of Kotlin
+
+Objectives - {
+    - Last Week's Assignment 
+    - If Statements
+    - String Functions
+        - Contains
+        - Content Equals
+        - Properties
+            - Length
+    - When Statements
+    - For Loops
+    - Lists and Arrays
+        - Sorted
+        - Unsorted 
+}
