@@ -1,0 +1,7 @@
+1) Input Field
+2) Button
+3) Add Function to Remove something from the list
+    *Bonus
+        - Before deleting check if the string actually exists
+            - If it does then proceed to delete
+            - If it does not then give the user some kind of error 

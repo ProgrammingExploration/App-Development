@@ -1,0 +1,17 @@
+11/2/20 - App Development
+
+Topic(s) - Previous App, Random Module in Kotlin, Random Restaurant Generator
+
+Objectives - {
+    - Previous App (Small Review)
+    - Random Module
+    - Random Restaraunt Generator
+        - Layout
+            - Constraints
+            - Input
+            - Buttons
+        - Functions
+            - Add Input to Array
+            - Generate Random String from Array
+            - Display Text and Get Text
+}
