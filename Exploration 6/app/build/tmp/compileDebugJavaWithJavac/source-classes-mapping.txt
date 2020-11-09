@@ -1,0 +1,2 @@
+com/panda/dinnerdecider/BuildConfig.java
+ com.panda.dinnerdecider.BuildConfig
