@@ -1,6 +1,6 @@
 11/2/20 - App Development
 
-Topic(s) - Previous App, Random Module in Kotlin, Random Restaraunt Generator
+Topic(s) - Previous App, Random Module in Kotlin, Random Restaurant Generator
 
 Objectives - {
     - Previous App (Small Review)
