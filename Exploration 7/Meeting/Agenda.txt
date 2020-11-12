@@ -1,8 +1,14 @@
 16/11/20 - App Development
 
-Topic(s) - Random Image Generator
+Topic(s) - Dinner Decider Finish, Random Image Generator
 
 Objectives - {
+    - Dinner Decider Continued
+        - Add Remove Input Field
+        - Remove Restaraunt
+            - Check if the Restaraunt Exists
+            - Text for Error
+                - Alert
     - Random Image Generator
         - Layout
             - Image View
