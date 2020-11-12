@@ -1,0 +1,15 @@
+16/11/20 - App Development
+
+Topic(s) - Random Image Generator
+
+Objectives - {
+    - Random Image Generator
+        - Layout
+            - Image View
+            - Importing Images
+            - Resources Folder
+            - Buttons
+        - Functionality
+            - Generate Random Image
+            - Setting Image
+}

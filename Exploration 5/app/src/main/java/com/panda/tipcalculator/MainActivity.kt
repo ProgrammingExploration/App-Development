@@ -13,10 +13,11 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun calculate(view: View) {
-        var price: Int = findViewById<EditText>(R.id.price).text.toString().toInt();
-        var tip: Int = findViewById<EditText>(R.id.tip).text.toString().toInt();
-        var totalString: String = (price + (price * tip/100)).toString();
-        val textView: TextView = findViewById(R.id.total);
-        textView.text = totalString;
+        var price = findViewById<EditText>(R.id.price).text.toString().toInt();
+        var tip = findViewById<EditText>(R.id.tip).text.toString().toInt();
+        var percent = tip * 0.01;
+        var final = price + (price * percent);
+        var finalText = findViewById<TextView>(R.id.result);
+        finalText.text = final.toString();
     }
 }
