@@ -1,0 +1,18 @@
+HARDER
+1) Set up a random image generator and a random text generator. (Make sure each image has a corresponding text)
+2) On ONE button click, both image and text should randomly generate. 
+    - If the text and image are matching, show an image below the generators as a check mark
+    - If the text are not, give an alert to the user, and show the image below as a wrong answer
+    
+EASIER
+1) Setup a random generator but this will be only in the backend, so there will be no text displaying the randomly generated number
+2) Setup an input and button for the user where they can guess the number. 
+3) When clicked the button:
+    - Check if the input is completely empty and if so, alert the user
+    - Check if the input is a number
+    - Check if the input matches the randomly generated number
+        - If yes, then give them an alert saying "YOU WON!"
+        - If no, give them an alert saying "You lost by: {number - guess}"
+4) Reset Button
+    - Generate a new random number
+    - Clear the input

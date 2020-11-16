@@ -1446,6 +1446,7 @@ id action_text
 id actions
 id activity_chooser_view_content
 id add
+id add2
 id alertTitle
 id all
 id always
@@ -1586,6 +1587,7 @@ id pin
 id progress_circular
 id progress_horizontal
 id radio
+id remove
 id restaraunt
 id right
 id right_icon
