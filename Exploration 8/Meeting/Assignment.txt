@@ -1,0 +1,16 @@
+Full Signup App
+    - Inputs
+        - Name
+        - Email
+        - Password
+        - Bio
+        - Icon
+    - Icon
+        - Random Image Generator
+        - Change Background
+    - Second Page
+        - Display all Inputs
+        - Display Icon
+        - Button to change data
+            - Send Data Back
+            - Recieve and Place All Data to Corresponding Inputs
