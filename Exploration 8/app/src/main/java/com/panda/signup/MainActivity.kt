@@ -21,11 +21,8 @@ class MainActivity : AppCompatActivity() {
         findViewById<EditText>(R.id.name).setText(name);
         findViewById<EditText>(R.id.email).setText(email);
         findViewById<EditText>(R.id.pass).setText(pass);
-        var y = this.intent.getStringExtra("r");
-        var x = y?.toInt();
-        if(x !== null) {
-            findViewById<ImageView>(R.id.img).setImageResource(list[x]);
-        }
+        var drawable = this.intent.getIntExtra("drawable", R.drawable.one)
+        findViewById<ImageView>(R.id.img).setImageResource(drawable);
     }
 
     fun register(view: View) {
@@ -36,7 +33,7 @@ class MainActivity : AppCompatActivity() {
             putExtra("fname", name);
             putExtra("email", email);
             putExtra("pass", pass);
-            putExtra("r", r.toString());
+            putExtra("drawable", list[r]);
         };
         startActivity(intent);
     }
