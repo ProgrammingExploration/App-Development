@@ -5,7 +5,7 @@ Topic(s) - Intent, Input Field Types, Passing Data
 Agenda - {
     App: Signup
         - Input Types
-            - Text
+            - Name
             - Email
             - Password
         - Intents

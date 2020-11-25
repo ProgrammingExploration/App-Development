@@ -25,11 +25,12 @@ class MainActivity : AppCompatActivity() {
 
     fun remove(view: View) {
         var inputField = findViewById<EditText>(R.id.remove);
-        if(list.contains(inputField.text.toString())) {
-            list.remove(inputField.text.toString());
+        var text = inputField.text.toString();
+        if(list.contains(text)) {
+            list.remove(text);
             Toast.makeText(this@MainActivity, "Deleted Successfully", Toast.LENGTH_SHORT).show();
-        } else {
-            Toast.makeText(this@MainActivity, "Restaraunt not in Options", Toast.LENGTH_SHORT).show();
+       } else {
+            Toast.makeText(this@MainActivity, "Restaraunt not in List", Toast.LENGTH_LONG).show();
         }
         inputField.text.clear();
     }

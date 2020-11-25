@@ -28,10 +28,6 @@
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/6d4c05bdcfa313d2c56ca6ff07e141ce1ad747e2f0e5effd6a405b1ad7679a3c_0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/6d4c05bdcfa313d2c56ca6ff07e141ce1ad747e2f0e5effd6a405b1ad7679a3c_1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/6d4c05bdcfa313d2c56ca6ff07e141ce1ad747e2f0e5effd6a405b1ad7679a3c_2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/6d4c05bdcfa313d2c56ca6ff07e141ce1ad747e2f0e5effd6a405b1ad7679a3c_3.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/panda/dinnerdecider/MainActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/panda/dinnerdecider/MainActivity.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/runtime_symbol_list/debug/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/runtime_symbol_list/debug/R.txt" afterDir="false" />
@@ -53,14 +49,14 @@
       <change beforePath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/panda/dinnerdecider/MainActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/panda/dinnerdecider/MainActivity.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/panda/dinnerdecider/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/panda/dinnerdecider/MainActivity.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exploration 7/Meeting/Assignment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Exploration 7/Meeting/Assignment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exploration 7/Solution2/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exploration 7/Solution2/.idea/gradle.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Nexus_6P_API_30]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -79,7 +75,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Exploration 7" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -171,10 +167,10 @@
       <screen x="-1920" y="-860" width="1920" height="1160" />
     </state>
     <state x="-1877" y="-879" width="1736" height="976" maximized="true" key="AVDManager/0.0.1920.1040/-1920.-860.1920.1160@-1920.-860.1920.1160" timestamp="1605557017681" />
-    <state x="-1180" y="-525" key="FileChooserDialogImpl" timestamp="1605557332717">
+    <state x="-1180" y="-525" key="FileChooserDialogImpl" timestamp="1605730599921">
       <screen x="-1920" y="-860" width="1920" height="1160" />
     </state>
-    <state x="-1180" y="-525" key="FileChooserDialogImpl/0.0.1920.1040/-1920.-860.1920.1160@-1920.-860.1920.1160" timestamp="1605557332717" />
+    <state x="-1180" y="-525" key="FileChooserDialogImpl/0.0.1920.1040/-1920.-860.1920.1160@-1920.-860.1920.1160" timestamp="1605730599921" />
     <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1605557238589">
       <screen x="-1920" y="-860" width="1920" height="1160" />
     </state>
@@ -191,5 +187,9 @@
       <screen x="-1920" y="-860" width="1920" height="1160" />
     </state>
     <state width="1877" height="321" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.-860.1920.1160@-1920.-860.1920.1160" timestamp="1605557238589" />
+    <state x="-1297" y="-605" width="672" height="678" key="search.everywhere.popup" timestamp="1605729588498">
+      <screen x="-1920" y="-860" width="1920" height="1160" />
+    </state>
+    <state x="-1297" y="-605" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.-860.1920.1160@-1920.-860.1920.1160" timestamp="1605729588498" />
   </component>
 </project>
