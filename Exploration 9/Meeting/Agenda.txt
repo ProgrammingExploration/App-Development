@@ -1,0 +1,17 @@
+11/30/20 - App Development
+
+Topic(s) - Item List, Adapter 
+
+Agenda - {
+    - Item List 
+        - Recycler View
+        - Adapter
+            - Class OOP
+        - Example Item
+        - Adding to Main Activity
+            - Generating List
+            - Recycler View
+                - Setting Adapter
+                - Layout Manager
+                - setHasFixed()
+}
