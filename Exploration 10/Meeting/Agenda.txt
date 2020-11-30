@@ -1,0 +1,12 @@
+12/14/20 - App Development
+
+Topic(s) - Fetching to External API, Rendering Texts, Random User API 
+
+API: https://randomuser.me/api/
+
+Agenda - {
+    - Fetching to Web API
+    - Saving Data
+        - Phone Storage
+    - JSON Data
+}
