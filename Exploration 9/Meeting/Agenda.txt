@@ -1,17 +1,16 @@
-12/7/20 - App Development
+12/14/20 - App Development
 
-Topic(s) - Item List, Adapter 
+Topic(s) - Fetching to External API, Rendering Texts, Random User API 
+
+API: https://evening-mountain-10604.herokuapp.com/api
+    - https://github.com/littlepotato123/Deploy-API
 
 Agenda - {
-    - Item List 
-        - Recycler View
-        - Adapter
-            - Class OOP
-        - Example Item
-        - Adding to Main Activity
-            - Generating List
-            - Recycler View
-                - Setting Adapter
-                - Layout Manager
-                - setHasFixed()
+    - Walking through the API 
+        - Schema
+        - Github
+        - Heroku
+    - Fetching to Web API
+        - await in Kotlin
+    - JSON Data
 }

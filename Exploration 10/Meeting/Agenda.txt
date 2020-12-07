@@ -1,12 +1,17 @@
-12/14/20 - App Development
+12/7/20 - App Development
 
-Topic(s) - Fetching to External API, Rendering Texts, Random User API 
-
-API: https://randomuser.me/api/
+Topic(s) - Item List, Adapter 
 
 Agenda - {
-    - Fetching to Web API
-    - Saving Data
-        - Phone Storage
-    - JSON Data
+    - Item List 
+        - Recycler View
+        - Adapter
+            - Class OOP
+        - Example Item
+        - Adding to Main Activity
+            - Generating List
+            - Recycler View
+                - Setting Adapter
+                - Layout Manager
+                - setHasFixed()
 }

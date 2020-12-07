@@ -1,0 +1,13 @@
+Emoji Dictionary
+    - Emoji Item
+        - RecylerView Item
+            - Card View
+        - Description for Emoji
+        - Text for Emoji
+            - WINDOW + PERIOD
+        - Button for Next Page
+            - Intent
+            - Sending Text and Description
+    - Add Adapter
+    - Layout (RecylerView Layout)
+    - Basic List, no need to generate
