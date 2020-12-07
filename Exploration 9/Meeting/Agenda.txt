@@ -14,3 +14,29 @@ Agenda - {
         - await in Kotlin
     - JSON Data
 }
+
+Fetching - {
+    - build.grade (Module: (Project-Name).app)
+        - implementation 'com.android.volley:volley:1.1.1'
+    - AndroidManifest.xml
+        - <uses-permission android:name="android.permission.INTERNET" />
+    - MainActivity.Kotlin
+        val queue = Volley.newRequestQueue(this)
+        val url = "https://randomuser.me/api/"
+
+        val jsonObjectRequest = JsonObjectRequest(Request.Method.GET, url, null,
+                { response ->
+                    var results = response.getJSONArray("results");
+                    for(i in 0 until results.length()) {
+                        var item = results.getJSONObject(i);
+                        println(item);
+                        println((item.getJSONObject("name")["title"]));
+                    }
+                },
+                { it ->
+                    println(it.toString())
+                }
+        )
+
+        queue.add(jsonObjectRequest);
+}
