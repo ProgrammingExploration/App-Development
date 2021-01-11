@@ -1,0 +1,5 @@
+Create Any Class
+    - 3 Properties
+    - Constructor
+    - 1 Base Function (A Function that just prints a value of the class out)
+    - 2 Changing Functions (A Function that changes a value)

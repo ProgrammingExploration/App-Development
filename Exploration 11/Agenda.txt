@@ -1,0 +1,42 @@
+1/11/20 - Flutter
+
+Topic(s) - Dart Introduction, DartPad.dev, Dart Documentation, Classes and OOP
+
+Agenda - {
+    - Setup
+        - https://dartpad.dev/?
+        - Visual Studio Code
+            - CTRL + SHIFT + P
+            - Dart: New Project
+            - Name of Project
+            - Cleanup
+                - Delete README.md
+            - Walk Through
+                - .gitignore
+                - pubspec.yaml
+            - bin/(project_name).dart
+    - Documentation: https://dart.dev/samples
+    - Initialization
+        - void main();
+        - print();
+        - Must have ';' at the end of every line
+    - Data Types
+        - String
+        - Integer
+        - Double
+        - Boolean
+        - List<T>
+        - Dynamic (Any Type)
+        - Var (Infers Type)
+    - Functions
+        - Typed Functions 
+            - Default: Void
+    - Classes
+        - Creating Class
+            - Properties (Variables)
+            - Contructor
+            - Functions
+            - Getters and Setters
+        - Creating Objects
+        - Extending Classes
+}
