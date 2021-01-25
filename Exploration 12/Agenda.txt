@@ -1,0 +1,24 @@
+1/25/21 - App Development
+
+Topic(s) - Flutter Init, File Order, Hello World App
+
+Agenda - {
+    - Setup
+        - Test: flutter doctor
+        - Visual Studio Code Extensions: Flutter, Dart 
+        - Android Studio Emulator
+    - flutter create (project_name)
+        - File Setup
+            - android
+            - ios
+        - Cleanup
+    - Hello World
+        - Clear main.dart
+        - imports
+        - Main()
+    - Widgets
+        - Attributes
+        - Styling
+        - Positioning
+        - Text, Button, Row, Column 
+}
