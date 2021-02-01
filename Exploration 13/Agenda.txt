@@ -1,0 +1,32 @@
+2/1/21 - App Development
+
+Topic(s) - Flutter Buttons, Rows, Columns, Switching Components, Stateful Widgets, Imports
+
+Agenda - {
+    - Flutter Init
+        - flutter create (Project Name)
+        - Setup Devices
+    - Setting Up Main.dart()
+    - class App extends StatlessWidget {}
+        - theme
+        - Scaffold
+            - appBar: Title
+            - body: MainApp()
+    - Stateful Widget
+        - enum Pages
+        - _MainApp
+            - createState() => 
+        - State<_MainApp>
+        - setState(() {
+            page = Pages.HOME | Pages.ABOUT
+        })
+    - Setup Pages
+        - Pages/home.dart
+        - Pages/about.dart
+        - Pages/error.dart
+        - Pages/stats.dart
+    - Importing Pages
+        - import './home.dart';
+        - Home()
+        - PageWidget
+}
