@@ -1,11 +1,12 @@
 Habbit Tracker
+ 
+Resources: https://flutter.dev/docs/cookbook/networking/fetch-data
 
 API
     Mutations
         - Signup
         - Login
         - New Post
-        - Follow User
 
     Queries
         - Homepage
@@ -13,3 +14,7 @@ API
         - User Posts
 
 App
+    Pages
+        - Home
+        - User Page (Search for Any User and their Data)
+        - Profile Page (Guest or User Profile)
