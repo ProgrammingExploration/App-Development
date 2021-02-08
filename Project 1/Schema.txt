@@ -1,0 +1,15 @@
+Habbit Tracker
+
+API
+    Mutations
+        - Signup
+        - Login
+        - New Post
+        - Follow User
+
+    Queries
+        - Homepage
+        - User Data
+        - User Posts
+
+App
